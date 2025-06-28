@@ -5,6 +5,8 @@ description = "Convert markdown files to Anki cards"
 authors = [
     {name = "Andrew Romanenco",email = "andrew@romanenco.com"}
 ]
+homepage = "https://github.com/andrewromanenco/md2ankicard"
+repository = "https://github.com/andrewromanenco/md2ankicard"
 readme = "README.md"
 license = "MIT"
 keywords = ["anki", "markdown", "flashcards", "converter", "cli"]
@@ -12,7 +14,6 @@ classifiers = [
     "License :: OSI Approved :: MIT License",
     "Development Status :: 5 - Production/Stable",
     "Intended Audience :: End Users/Desktop",
-    "Intended Audience :: End Users/Mobile",
     "Topic :: Education",
     "Topic :: Utilities",
     "Environment :: Console",
